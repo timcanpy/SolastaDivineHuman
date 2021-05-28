@@ -8,6 +8,6 @@
 	"EntryMethod": "DivineHumans.Main.Load",
 	"Requirements": [ "SolastaModApi" ],
 	"LoadAfter": [ "SolastaModApi" ],
-	"Repository": "https://github.com/timcanpy/SolastaNoRacialDarkVision/blob/master/NoDarkVision/Repository.json",
-	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/76"
+	"Repository": "https://github.com/timcanpy/SolastaDivineHuman/blob/master/DivineHumans/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/77/"
 }
