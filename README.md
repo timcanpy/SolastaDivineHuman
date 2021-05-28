@@ -1,6 +1,6 @@
 # SolastaDivineHuman
 
-This mod buffs the Human race by adding a free bonus cantrip from the Cleric spell list.
+This mod buffs the Human race by adding a free bonus cantrip from the Cleric spell list. Note that this is not retroactive for existing characters.
 
 ## How to Compile
 
