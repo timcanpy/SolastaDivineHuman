@@ -1,0 +1,13 @@
+﻿{
+	"Id": "DivineHumans",
+	"DisplayName": "DivineHumans",
+	"Author": "ViewThePhenom",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.22.13",
+	"AssemblyName": "DivineHumans.dll",
+	"EntryMethod": "DivineHumans.Main.Load",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"Repository": "https://github.com/timcanpy/SolastaNoRacialDarkVision/blob/master/NoDarkVision/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/76"
+}
